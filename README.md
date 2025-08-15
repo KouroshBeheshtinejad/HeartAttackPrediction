@@ -58,7 +58,7 @@ Each model is evaluated on the test set using:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/HeartAttackPrediction.git
+git clone https://github.com/KouroshBeheshtinejad/HeartAttackPrediction.git
 cd HeartAttackPrediction
 ```
 
